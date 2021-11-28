@@ -16,7 +16,7 @@ function Home() {
 
           <div className="intro-content d-flex justify-content-between">
             <p>
-              MERN Stack <br /> Developer , Instructor
+              Full Stack Developer <br /> Automation Infrastructure Engineer
             </p>
               <button className="primary-button font-bold"><a href="#carousel">Get Started</a></button>
           </div>
